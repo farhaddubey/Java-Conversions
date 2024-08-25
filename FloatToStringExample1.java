@@ -10,3 +10,4 @@ public class FloatToStringExample1{
 
     }
 }
+//Float.toString(): converts float to .toString() 

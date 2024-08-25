@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class PrimeNo{
     public static void main(String[] args){
-                System.out.println("Enter the no.");
+        System.out.println("Enter the no.");
         Scanner sc=new Scanner(System.in);
         int num=sc.nextInt();
         for(int i=2; i<=9; i++){
